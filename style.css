@@ -1,0 +1,50 @@
+body {
+    background-color: #f5d9d5;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#blockcontext {
+    margin-top: 100px;
+}
+
+#mainnavbar .nav-link {
+    color: rgb(140,0,0);
+}
+
+#mainnavbar .nav-link:hover {
+
+    color: #ea1c2c;
+}
+
+#mainnavbar .navbar-brand {
+    color:  #ea1c2c;
+    font-size: 1.5rem;
+     font-weight: 100; /* it will change to fitess of words or fonts */
+
+}
+
+span {
+    color:#ea1c2c;
+}
+
+.navbar.scrolled {
+
+    background: rgb(222,192,222);
+}
+em {
+    font-size: 1.125rem;
+    font-weight: 100;
+}
+
+.blurb {
+            margin-top: 50px;
+            margin-bottom: 50px;
+            padding-bottom: 50px;
+
+}
+
+hr {
+   background-color: #ea1c2c;
+    width: 50%;
+
+}
